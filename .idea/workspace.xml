@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b6d2cd8-999c-4bd0-a8a6-57e5c3a20363" name="Default Changelist" comment="" />
+    <list default="true" id="9b6d2cd8-999c-4bd0-a8a6-57e5c3a20363" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login_Signup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Login_Signup.py" afterDir="false" />
+    </list>
     <list id="44144a09-2817-4728-99e8-d4943197acff" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit b6983745" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +114,7 @@
       <workItem from="1607661733108" duration="202000" />
       <workItem from="1607661943916" duration="200000" />
       <workItem from="1607662214496" duration="369000" />
+      <workItem from="1608105737433" duration="499000" />
     </task>
     <servers />
   </component>
