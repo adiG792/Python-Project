@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b6d2cd8-999c-4bd0-a8a6-57e5c3a20363" name="Default Changelist" comment="" />
+    <list default="true" id="9b6d2cd8-999c-4bd0-a8a6-57e5c3a20363" name="Default Changelist" comment="Extra's">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="44144a09-2817-4728-99e8-d4943197acff" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit b6983745" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,7 @@
     <option name="hiddenUrls">
       <set>
         <option value="https://github.com/adiG792/Login-Signup_prog" />
+        <option value="https://github.com/adiG792/Python-Project" />
         <option value="https://github.com/adiG792/Python_Project" />
       </set>
     </option>
@@ -37,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GE-CS/Project/11-Dec-2020" />
   </component>
   <component name="RunManager" selected="Python.Login_Signup">
     <configuration name="Login_Signup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -110,8 +113,17 @@
       <workItem from="1607661578019" duration="150000" />
       <workItem from="1607661733108" duration="202000" />
       <workItem from="1607661943916" duration="200000" />
-      <workItem from="1607662214496" duration="369000" />
+      <workItem from="1607662214496" duration="730000" />
+      <workItem from="1607672238724" duration="215000" />
     </task>
+    <task id="LOCAL-00001" summary="Extra's">
+      <created>1607662911193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607662911194</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +150,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Extra's" />
+    <option name="LAST_COMMIT_MESSAGE" value="Extra's" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Project$Login_Signup.coverage" NAME="Login_Signup Coverage Results" MODIFIED="1607662145942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

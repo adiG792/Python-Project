@@ -1,11 +1,11 @@
 print("Sign up\n")
-user_n1 = input("Enter username: ")
+user_n1 = input("Username: ")
 pass_1 = input("Password: ")
 print()
 print("Login\n")
-user_n = input("Enter Login credentials: ")
+user_n = input("Username: ")
 if user_n == user_n1:
-    pass_ = input("Enter Password: ")
+    pass_ = input("Password: ")
     while user_n == user_n1:
         if pass_ == pass_1:
             print(f"Access Granted, Welcome {user_n}")
