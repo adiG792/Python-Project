@@ -12,6 +12,7 @@ def estimated_pi(n):
             num_points_inside_circle += 1
         num_points_outside_circle += 1
 
-    return 4*num_points_inside_circle/num_points_outside_circle
+    return 4 * num_points_inside_circle / num_points_outside_circle
 
-print(estimated_pi(100))
+
+print(estimated_pi(10000000))  #this might take some time
