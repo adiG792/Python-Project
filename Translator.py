@@ -1,3 +1,6 @@
+
+# Translation is based on Basic vowels replacement
+
 def translate(phrase):
     result = ""
     for letter in phrase:
