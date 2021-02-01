@@ -1,3 +1,4 @@
+# This code is written in pure python for beginners
 
 def vector_product():
     import math
