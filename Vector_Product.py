@@ -29,4 +29,5 @@ def vector_product():
         __c = _c1 + add + _c2 + add + _c3
         print(f"C/|C| = {__c}")
 
+
 vector_product()
