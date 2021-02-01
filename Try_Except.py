@@ -1,4 +1,4 @@
-
+# Try/Except code for a basic Knowledge
 
 try:
     answer = 10/0
