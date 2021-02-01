@@ -2,7 +2,7 @@
 
 # open( "file location", "r/w/a/r+" -> read/write/append/read & write)
 # file location -> if same directory write only name
-# otherwise -> write complete location
+# otherwise -> write complete location (eg, C:/blah/blah/file_name)
 
 example_file = open("Example.txt", "r")
 
