@@ -1,12 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b6d2cd8-999c-4bd0-a8a6-57e5c3a20363" name="Default Changelist" comment="" />
+    <list default="true" id="9b6d2cd8-999c-4bd0-a8a6-57e5c3a20363" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Intermediate Python Projects/.idea/Intermediate Python Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate Python Projects/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate Python Projects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate Python Projects/Lists/.idea/Lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate Python Projects/Lists/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate Python Projects/Lists/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intermediate Python Projects/Lists/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tensor Flow/.idea/Tensor Flow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tensor Flow/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tensor Flow/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tensor Flow/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tensor Flow/Tensor_flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Scraping/.idea/Web_Scraping.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Scraping/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Scraping/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Scraping/Basic_HTML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Word_Dictionary/.idea/Word_Dictionary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Word_Dictionary/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Word_Dictionary/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Word_Dictionary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Word_Dictionary/Word_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Word_Dictionary/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Word_Dictionary/inventory.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Word_Dictionary/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old_Pi_Method/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testFile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Basic_Python Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="44144a09-2817-4728-99e8-d4943197acff" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit b6983745" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,8 +53,27 @@
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -26,34 +83,62 @@
       </set>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Re_Learning_Python/Functions/sameNameError.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Re_Learning_Python/Functions/Exception Handling/zeroDivide.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Re_Learning_Python/Functions/Exception Handling/spamintry.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/Lessons/Hacking tools/reverse_shell/server.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Practice.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Re_Learning_Python/Functions/Exception Handling/zigzag.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/Lessons/Hacking tools/reverse_shell/reverse_shell.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tensor Flow/Tensor_flow.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../GE-CS/Project/01-Mar-2021, Selection_Sort/Selection_Sort.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Re_Learning_Python/Functions/Collatz.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="JupyterTrust" id="63fa6e6e-188d-44af-9d14-4a041e3d9d6f" />
   <component name="ProjectId" id="1l6awmBq5qppUmnMYg0BTlWHnC6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GE-CS/Project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Login_Signup">
-    <configuration name="Login_Signup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.fetch_data">
+    <configuration name="Methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lists" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\starl\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="C:\Users\a2z\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Re_Learning_Python/Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Login_Signup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Re_Learning_Python/Lists/Methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,20 +147,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Math Solver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\a2z\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math Solver.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,10 +169,108 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="fetch_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machine Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\a2z\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Machine Learning/my_env" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Machine Learning/my_env/fetch_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_choice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\a2z\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Re_Learning_Python/Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Re_Learning_Python/Lists/random_choice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_suffle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\a2z\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Re_Learning_Python/Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Re_Learning_Python/Lists/random_suffle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\a2z\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Re_Learning_Python/Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Re_Learning_Python/Lists/sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.random_choice" />
+      <item itemvalue="Python.random_suffle" />
+      <item itemvalue="Python.Methods" />
+      <item itemvalue="Python.sort" />
+      <item itemvalue="Python.fetch_data" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Login_Signup" />
-        <item itemvalue="Python.Math Solver" />
+        <item itemvalue="Python.fetch_data" />
+        <item itemvalue="Python.sort" />
+        <item itemvalue="Python.Methods" />
+        <item itemvalue="Python.random_suffle" />
+        <item itemvalue="Python.random_choice" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +294,29 @@
       <workItem from="1607661733108" duration="202000" />
       <workItem from="1607661943916" duration="200000" />
       <workItem from="1607662214496" duration="369000" />
+      <workItem from="1616419938084" duration="2657000" />
+      <workItem from="1616505995216" duration="13864000" />
+      <workItem from="1616598389205" duration="458000" />
+      <workItem from="1616835572798" duration="10447000" />
+      <workItem from="1617462437344" duration="28000" />
+      <workItem from="1617462544472" duration="41000" />
+      <workItem from="1617462619542" duration="4989000" />
+      <workItem from="1621163718581" duration="2190000" />
+      <workItem from="1626243195679" duration="582000" />
+      <workItem from="1626243937927" duration="108000" />
+      <workItem from="1626244121920" duration="49000" />
+      <workItem from="1626244406758" duration="1365000" />
+      <workItem from="1626934664760" duration="120000" />
+      <workItem from="1626934804814" duration="1176000" />
+      <workItem from="1626936047920" duration="66000" />
+      <workItem from="1628750900586" duration="72000" />
+      <workItem from="1629272924075" duration="389000" />
+      <workItem from="1631700274338" duration="509000" />
+      <workItem from="1632389607141" duration="259000" />
+      <workItem from="1632390238795" duration="2674000" />
+      <workItem from="1632578308192" duration="4450000" />
+      <workItem from="1632646744722" duration="800000" />
+      <workItem from="1632647755256" duration="3732000" />
     </task>
     <servers />
   </component>
@@ -139,9 +345,37 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Project$Login_Signup.coverage" NAME="Login_Signup Coverage Results" MODIFIED="1607662145942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Project$Practice.coverage" NAME="Practice Coverage Results" MODIFIED="1607355453354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$Word_Dictionary.coverage" NAME="Word_Dictionary Coverage Results" MODIFIED="1616515408664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_Dictionary" />
+    <SUITE FILE_PATH="coverage/Python_Project$Collatz.coverage" NAME="Collatz Coverage Results" MODIFIED="1632579381223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python/Functions" />
+    <SUITE FILE_PATH="coverage/Python_Project$allmycats.coverage" NAME="allmycats Coverage Results" MODIFIED="1632580281330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python/Lists" />
+    <SUITE FILE_PATH="coverage/Python_Project$random_choice.coverage" NAME="random_choice Coverage Results" MODIFIED="1632580841683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python/Lists" />
+    <SUITE FILE_PATH="coverage/Python_Project$fetch_data.coverage" NAME="fetch_data Coverage Results" MODIFIED="1632650970520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Machine Learning/my_env" />
+    <SUITE FILE_PATH="coverage/Python_Project$main.coverage" NAME="main Coverage Results" MODIFIED="1616518594774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Word_Dictionary" />
+    <SUITE FILE_PATH="coverage/Python_Project$spamintry.coverage" NAME="spamintry Coverage Results" MODIFIED="1632392390733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python/Functions/Exception Handling" />
+    <SUITE FILE_PATH="coverage/Python_Project$test.coverage" NAME="test Coverage Results" MODIFIED="1617464347807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$sameNameError.coverage" NAME="sameNameError Coverage Results" MODIFIED="1632391897722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python/Functions" />
+    <SUITE FILE_PATH="coverage/Python_Project$Class_9_1__LCM.coverage" NAME="Class-9.1, LCM Coverage Results" MODIFIED="1616836612103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../GE-CS/Project/12-Dec-2020, Continue, LCM" />
+    <SUITE FILE_PATH="coverage/Python_Project$zeroDivide.coverage" NAME="zeroDivide Coverage Results" MODIFIED="1632392216838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python/Functions/Exception Handling" />
+    <SUITE FILE_PATH="coverage/Python_Project$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1632580755464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python/Lists" />
     <SUITE FILE_PATH="coverage/Python_Project$Math_Solver.coverage" NAME="Math Solver Coverage Results" MODIFIED="1607063532616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$localGlobalSameName.coverage" NAME="localGlobalSameName Coverage Results" MODIFIED="1632391369329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python" />
+    <SUITE FILE_PATH="coverage/Python_Project$abcdCallStack.coverage" NAME="abcdCallStack Coverage Results" MODIFIED="1632390467020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python" />
+    <SUITE FILE_PATH="coverage/Python_Project$globalStatement.coverage" NAME="globalStatement Coverage Results" MODIFIED="1632391494271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python" />
+    <SUITE FILE_PATH="coverage/Python_Project$otherlocalscopes.coverage" NAME="otherlocalscopes Coverage Results" MODIFIED="1632391074947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python" />
+    <SUITE FILE_PATH="coverage/Python_Project$Selection_Sort.coverage" NAME="Selection_Sort Coverage Results" MODIFIED="1631700446506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../GE-CS/Project/01-Mar-2021, Selection_Sort" />
+    <SUITE FILE_PATH="coverage/Python_Project$sort.coverage" NAME="sort Coverage Results" MODIFIED="1632584354552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python/Lists" />
+    <SUITE FILE_PATH="coverage/Python_Project$Practice.coverage" NAME="Practice Coverage Results" MODIFIED="1626935811906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$server.coverage" NAME="server Coverage Results" MODIFIED="1631700387659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Lessons/Hacking tools/reverse_shell" />
+    <SUITE FILE_PATH="coverage/Python_Project$Tensor_flow.coverage" NAME="Tensor_flow Coverage Results" MODIFIED="1621164060287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tensor Flow" />
+    <SUITE FILE_PATH="coverage/Python_Project$readGlobal.coverage" NAME="readGlobal Coverage Results" MODIFIED="1632391137520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python" />
+    <SUITE FILE_PATH="coverage/Python_Project$Login_Signup.coverage" NAME="Login_Signup Coverage Results" MODIFIED="1616420180225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Project$Methods.coverage" NAME="Methods Coverage Results" MODIFIED="1632581545659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python/Lists" />
+    <SUITE FILE_PATH="coverage/Python_Project$zigzag.coverage" NAME="zigzag Coverage Results" MODIFIED="1632578848069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python/Functions/Exception Handling" />
+    <SUITE FILE_PATH="coverage/Python_Project$sameNameLocalGlobal.coverage" NAME="sameNameLocalGlobal Coverage Results" MODIFIED="1632391653936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python" />
+    <SUITE FILE_PATH="coverage/Python_Project$random_suffle.coverage" NAME="random_suffle Coverage Results" MODIFIED="1632580926104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Re_Learning_Python/Lists" />
   </component>
 </project>

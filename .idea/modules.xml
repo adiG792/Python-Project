@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GE-CS/Project/.idea/GE-CS-Python.iml" filepath="$PROJECT_DIR$/../GE-CS/Project/.idea/GE-CS-Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Re_Learning_Python/Lists/.idea/Lists.iml" filepath="$PROJECT_DIR$/../Re_Learning_Python/Lists/.idea/Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Machine Learning/.idea/Machine Learning.iml" filepath="$PROJECT_DIR$/../Machine Learning/.idea/Machine Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python Project.iml" filepath="$PROJECT_DIR$/.idea/Python Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Re_Learning_Python/.idea/Re_Learning_Python.iml" filepath="$PROJECT_DIR$/../Re_Learning_Python/.idea/Re_Learning_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tensor Flow/.idea/Tensor Flow.iml" filepath="$PROJECT_DIR$/Tensor Flow/.idea/Tensor Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Word_Dictionary/.idea/Word_Dictionary.iml" filepath="$PROJECT_DIR$/Word_Dictionary/.idea/Word_Dictionary.iml" />
+      <module fileurl="file://E:/Lessons/Hacking tools/reverse_shell/.idea/reverse_shell.iml" filepath="E:/Lessons/Hacking tools/reverse_shell/.idea/reverse_shell.iml" />
     </modules>
   </component>
 </project>
